@@ -152,3 +152,8 @@ that is the name of the containing script file.
 
 - The first element of `fsi.CommandLineArgs` is the script name itself.
 
+## References
+
+- https://devonburriss.me/fsharp-scripting/
+- https://brandewinder.com/2016/02/06/10-fsharp-scripting-tips/
+- https://docs.microsoft.com/en-us/dotnet/fsharp/tools/fsharp-interactive/#scripting-with-f
